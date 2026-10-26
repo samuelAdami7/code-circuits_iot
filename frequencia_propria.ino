@@ -1,4 +1,18 @@
+/*
+---------------------------------------------------------------------------------
+    Autores: Gabriel Amaral & Samuel Da cruz 
+    Atividade: Efeito Acumulo com LEDs
 
+    Descrição:
+    Um sistema em arduino em que ele faz com que os leds das pontas acendam para depois ligar 
+    os dois do meio e depois apaga todos ligam os do meio de novo e depois liga os dois da ponta
+
+    Funcionamento:
+    O programa liga um led de uma ponta e liga tambem o da outra ponta e depois os desliga
+    e liga os dois do meio e depois desliga os do meio depois os acende novamente e dai que 
+    ele liga os das pontas
+---------------------------------------------------------------------------------
+*/
 #define LEDVERDE 7
 #define LEDVERMELHO 2
 #define LEDAMARELO 4
