@@ -1,3 +1,17 @@
+/*
+---------------------------------------------------------------------------------
+    Autores: Gabriel Amaral & Samuel Da cruz 
+    Atividade: Efeito domino com LEDs
+
+    Descrição:
+    Um sistema em arduino em que ele faz um efeito domino com leds indo desligando o que 
+    ja estava ligado e ligando o proximo que estava ligado 
+
+    Funcionamento:
+    O programa liga um led por vez indo do verde ao branco ligando um por vez em que quando
+    o led desliga o proximo liga
+---------------------------------------------------------------------------------
+*/
 #define LEDVERDE 7
 #define LEDAMARELO 4
 #define LEDVERMELHO 2
