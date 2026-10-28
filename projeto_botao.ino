@@ -1,14 +1,13 @@
 /*---------------------------------------------------------------------------------
     Autores: Samuel Da cruz 
-    Atividade: Efeito Acumulo com LEDs
+    Atividade: Projeto com Botão
 
     Descrição:
-    Um sistema em arduino em que ele faz um efeito de acumulo no qual vai ligando um led
-    por vez ate todos estarem acesos e depois desliga todos  
+    Um sistema em arduino em que quando se segura o botao o led fica ligado e quando solta
+    o led desliga  
 
     Funcionamento:
-    O programa liga um led por vez indo do verde ao branco ligando um por vez em que vai
-    ligando todos os LEDs ate quando todos estiverem ligados dai apaga todos juntos
+    O programa liga o led sempre que o botao estar segurando e quando solta desliga o botão
 ---------------------------------------------------------------------------------
 */
 
