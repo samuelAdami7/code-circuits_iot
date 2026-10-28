@@ -1,3 +1,17 @@
+/*---------------------------------------------------------------------------------
+    Autores: Samuel Da cruz 
+    Atividade: Projeto com 2 botões
+
+    Descrição:
+    Um sistema em arduino em que quando se aperta o botão liga um led amarelo por 5 segundos e o
+    outro por led verde por 2 segundos,e se aperta o botao 2 o led verde pisca por 7 segundos   
+
+    Funcionamento:
+    Um sistema em arduino em que quando se aperta o botão liga um led amarelo por 5 segundos e o
+    outro por led verde por 2 segundos,e se aperta o botao 2 o led verde pisca por 7 segundos   
+
+---------------------------------------------------------------------------------
+*/
 #define LED_VERDE 12
 #define LED_AMARELO 13
 #define BTN1 2
