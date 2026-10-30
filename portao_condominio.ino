@@ -18,7 +18,7 @@ void setup()
 
 void loop()
 {
-  int estado_bnt1 = digitalRead(BTN1);
+  int estado_btn1 = digitalRead(BTN1);
   int estado_btn2 = digitalRead(BTN2);
   
   
