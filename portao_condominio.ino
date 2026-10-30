@@ -22,7 +22,7 @@ void loop()
   int estado_btn2 = digitalRead(BTN2);
   
   
-  if(estado_bnt1 == LOW){
+  if(estado_btn1 == LOW){
     digitalWrite(ledVermelho, LOW);
     digitalWrite(ledVerde, HIGH);
     
