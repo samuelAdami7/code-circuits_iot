@@ -1,3 +1,21 @@
+/**
+ *  * @file portao_condominio.ino
+  * @brief Controle de sinalização de um portão de condomínio.
+   * @author Samuel da Cruz Adami
+    * @date 30/10/2026
+     * @version 1.0.0
+      *
+       * @section HARDWARE
+        * Arduino Uno, dois botões, um LED verde e um LED vermelho.
+         *
+          * @section DESCRIPTION
+           * O botão 1 acende o LED verde e apaga o vermelho.
+            * O botão 2 acende o LED vermelho e apaga o verde.
+             * Inicialmente, o LED vermelho permanece ligado.
+              */
+ */
+
+
 #define ledVerde 13
 #define ledVermelho 2
 #define BTN1 4
